@@ -26,8 +26,7 @@ This project is for counting number of fingers shown to the camera. Though it ca
 
 See the below examples for demonstration.
 
-<img src= '2.png'></img>
-
+<img src= '2.png'>
 ## Try it yourself
 
 Type below instructions on command prompt:
