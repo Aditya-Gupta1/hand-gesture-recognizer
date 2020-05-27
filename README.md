@@ -11,7 +11,7 @@ This project is for counting number of fingers shown to the camera. Though it ca
 2. Motion Detection and Thresholding
 3. Segment the hand using Contour Extraction
 4. Finding convex hull of the hand
-5. Comute center of palm
+5. Compute center of palm
 6. Using the palm’s center, construct a circle with the maximum Euclidean distance (between the palm’s center and the extreme points) as radius.
 7. Perform bitwise AND operation between the thresholded hand image (frame) and the circular ROI (mask). This reveals the finger slices, which could further be used to calcualate the number of fingers shown.
 
@@ -26,7 +26,7 @@ This project is for counting number of fingers shown to the camera. Though it ca
 
 See the below examples for demonstration.
 
-![](2.png)
+![Example](https://github.com/Aditya-Gupta1/hand-gesture-recognizer/blob/master/2.PNG?raw=true)
 
 ## Try it yourself
 
